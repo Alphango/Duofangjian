@@ -701,6 +701,7 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
+  font-size:18px;
   color:#FFFFFF;
   text-align:center;
 }
@@ -713,13 +714,14 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
+  font-size:18px;
   color:#FFFFFF;
   text-align:center;
 }
 #u726 {
   position:absolute;
   left:0px;
-  top:14px;
+  top:12px;
   width:58px;
   word-wrap:break-word;
 }
@@ -1570,8 +1572,8 @@
 }
 #u793 {
   position:absolute;
-  left:87px;
-  top:31px;
+  left:89px;
+  top:250px;
   width:391px;
   height:148px;
   font-family:'Century Bold', 'Century Normal', 'Century';
@@ -1607,8 +1609,8 @@
 }
 #u795 {
   position:absolute;
-  left:190px;
-  top:67px;
+  left:192px;
+  top:286px;
   width:186px;
   height:33px;
   font-family:'Century Bold', 'Century Normal', 'Century';
@@ -1625,8 +1627,8 @@
 }
 #u797 {
   position:absolute;
-  left:213px;
-  top:133px;
+  left:215px;
+  top:352px;
   width:140px;
   height:36px;
 }
